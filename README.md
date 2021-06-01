@@ -1,4 +1,5 @@
-# Icon-Maker-GUI [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Icon-Maker-GUI
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 <br>
 A Icon Maker GUI Made Using Python 3.9.0 .<br>
 It will take any image and convert it to ICO file, for web site favicon or Windows applications.<br>
